@@ -1,0 +1,19 @@
+merge sort:
+
+Enter the number of elements : 5
+Enter element 1 : 2
+Enter element 2 : 8
+Enter element 3 : 1
+Enter element 4 : 4
+Enter element 5 : 9
+Sorted list is :
+1 2 4 8 9 
+
+quick sort:
+
+Enter the Size of the Array : 4
+Enter the Elements of the Array : 6
+1
+2
+4
+1 2 4 6 
